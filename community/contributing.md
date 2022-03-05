@@ -1,8 +1,8 @@
 ---
-description: Neatly organize all your ideas.
+description: Contribute to the development of Feedbacky.
 ---
 
-# Tags
+# Contributing
 
 {% hint style="info" %}
 <mark style="color:blue;">**Work in Progress!**</mark>

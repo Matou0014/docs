@@ -67,6 +67,3 @@ MAIL_MAILGUN_API_BASE_URL=https://api.mailgun.net/<version>/<domain>/messages
 ```
 {% endtab %}
 {% endtabs %}
-
-## Changelog
-

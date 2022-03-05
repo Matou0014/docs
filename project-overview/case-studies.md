@@ -4,11 +4,7 @@ description: See how Feedbacky helps others with their products.
 
 # Case Studies
 
-## Cloud-hosted
-
-Case studies from people who have their board hosted on our cloud instance.
-
-### ![](../.gitbook/assets/cs-discord\_ticket.png) Discord Tickets
+## ![](<../.gitbook/assets/image (9).png>) Discord Tickets
 
 eartharoid uses Feedbacky to **collect bot users' suggestions**;
 
@@ -16,15 +12,15 @@ eartharoid uses Feedbacky to **collect bot users' suggestions**;
 
 * [Official board](https://app.feedbacky.net/b/dsctickets)
 
-### ![](../.gitbook/assets/cs-arceon.png) Arceon
+## ![](<../.gitbook/assets/image (13).png>) Arceon
 
-Arcaniax Brennian uses Feedbacky to **improve their Arceon Minecraft plugin**;
+Arcaniax uses Feedbacky to **improve Arceon Minecraft plugin**;
 
 > I use Feedbacky for feedback on existing tools and also new tool ideas for my Patreon exclusive plugin called Arceon which features a lot of building tools.
 
 * [Official board](https://app.feedbacky.net/b/arceon)
 
-### ![](../.gitbook/assets/cs-head\_database.png) Head Database
+## ![](<../.gitbook/assets/image (21).png>) Head Database
 
 Arcaniax uses Feedbacky to **collect Head Database feedback**;
 
@@ -32,7 +28,7 @@ Arcaniax uses Feedbacky to **collect Head Database feedback**;
 
 * [Official board](https://app.feedbacky.net/b/HeadDatabase)
 
-### ****![](../.gitbook/assets/cs-ajparkour.png) **ajParkour**
+## ****![](<../.gitbook/assets/image (3).png>) **ajParkour**
 
 ajgeiss0702 uses Feedbacky to **make his plugin better**;
 
@@ -40,7 +36,7 @@ ajgeiss0702 uses Feedbacky to **make his plugin better**;
 
 * [Official board](https://app.feedbacky.net/b/ajparkour?source=Featured\_Board)
 
-### ![](../.gitbook/assets/cs-seniorteams.png) Senior Teams
+## ![](<../.gitbook/assets/image (20).png>) Senior Teams
 
 Agarwalpiryank uses Feedbacky to **get staff feedback**;
 
@@ -48,22 +44,10 @@ Agarwalpiryank uses Feedbacky to **get staff feedback**;
 
 * [Official board](https://app.feedbacky.net/b/Senior-Team-Freelancer)
 
-### ![](../.gitbook/assets/cs-murdermystery.png) MurderMystery
+## ![](<../.gitbook/assets/image (15).png>) MurderMystery
 
 &#x20;Tigerpanzer\_02 uses Feedbacky to **meet is customers' needs**;
 
 > With Feedbacky we can collect and sort the ideas of the customers in a structured way so that we always have an overview of which idea is most desired by all. The MurderMystery board lets us collect user feedback to improve our features and the quality over time.
 
 * [Official board](https://app.feedbacky.net/b/MurderMystery)
-
-## Self-hosted
-
-Case studies from people who self-host their own Feedbacky instance.
-
-### ![](<../.gitbook/assets/image (4).png>)Exvoid Network
-
-&#x20;Matou0014 uses Feedbacky to **power their community**;
-
-> Planning a gaming community and managing game servers as well is not always an easy feat. With Feedbacky, my team can keep track of each suggestions and bug reports, enabling us to always improve our work.&#x20;
-
-* [Official instance](https://feedback.exvoid.net/b/project)

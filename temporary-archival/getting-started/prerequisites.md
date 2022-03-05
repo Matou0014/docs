@@ -1,8 +1,8 @@
 ---
-description: Self-hosting your own Feedbacky instance.
+description: Operating system compatibility and necessary dependencies.
 ---
 
-# Installation
+# Prerequisites
 
 {% hint style="success" %}
 <mark style="color:green;">**Looking for an affordable hosting provider?**</mark>
@@ -10,18 +10,6 @@ description: Self-hosting your own Feedbacky instance.
 Feedbacky is in partnership with Senior Hosting to offer you high-performance Virtual Private Servers and Minecraft/Discord bot hosting!
 
 [Check out the offer!](../../)
-{% endhint %}
-
-Thank you for your interest in using Feedbacky! Follow this guide step by step in order to self-host your own instance.
-
-Please also consider [supporting](broken-reference) the development of Feedbacky!
-
-## Prerequisites
-
-{% hint style="danger" %}
-<mark style="color:red;">**Heads up!**</mark>
-
-If you plan on using a panel with Feedbacky, please read this [FAQ section](broken-reference).
 {% endhint %}
 
 {% hint style="warning" %}
@@ -40,7 +28,13 @@ Make sure that virtualization is supported as it is required for Docker. Additio
   * [Mailgun](https://www.mailgun.com)
   * [SendGrid](https://sendgrid.com)
 
-### Operating System
+## Compatibility
+
+{% hint style="danger" %}
+<mark style="color:red;">**Heads up!**</mark>
+
+If you plan on using a panel with Feedbacky, please read this [FAQ section](broken-reference).
+{% endhint %}
 
 | Operating System | Version                                        | Status | Notes                                 |
 | ---------------- | ---------------------------------------------- | :----: | ------------------------------------- |
@@ -257,3 +251,7 @@ sudo systemctl status nginx
 ```
 
 </details>
+
+{% hint style="success" %}
+When done, you can proceed to the main installation guide.
+{% endhint %}
