@@ -8,6 +8,8 @@ coverY: 0
 
 {% hint style="info" %}
 Test
+
+Cool 8)
 {% endhint %}
 
 ![](<../.gitbook/assets/image (17).png>)
